@@ -3,10 +3,15 @@
 
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![java](https://img.shields.io/badge/java-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdaniel1&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=tjdaniel1&show_icons=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdaniel1&layout=Demo&theme=dark)
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=truestone0418)](https://solved.ac/trueston0418)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdaniel1&layout=compact&theme=dracula)
 
 <!--
 **tjdaniel1/tjdaniel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
