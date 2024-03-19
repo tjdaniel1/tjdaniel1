@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdaniel1&layout=Demo 스타일&theme=dark)
+
 <!--
 **tjdaniel1/tjdaniel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
