@@ -32,7 +32,6 @@
 </div>
 
 <div align=center>
-<!--   <img src="https://img.shields.io/badge/Ja va-007396?style=flat&logo=Conda-Forge&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
   <img src="https://img.shields.io/badge/intellij idea-8756a8?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
@@ -57,19 +56,26 @@
 <!-- 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a> -->
-	<br>
 </div>
 
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdaniel1&layout=compact" height="195">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjdaniel1&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdaniel1&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=tjdaniel1&show_icons=true">
+
+<br>
+<br>
+
+<p>🏆 Baekjoon solved rank 🏆</p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=truestone0418)](https://solved.ac/truestone0418)
 </div>
 
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=truestone0418)](https://solved.ac/trueston0418)
+
+
 
 <!--
 **tjdaniel1/tjdaniel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
